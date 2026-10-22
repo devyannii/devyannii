@@ -1,5 +1,5 @@
 
- Hey, I'm Devyani 👋🏻
+## Hey, I'm Devyani 👋🏻
 
 I'm a fourth-year Computer Science and Engineering student passionate about technology, problem-solving, and building practical software solutions.
 
