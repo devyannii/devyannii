@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" alt="Pastel pixel-art landscape" width="100%">
+</p>
 # Hey, I'm Devyani 👋🏻
 
 I'm a fourth-year Computer Science and Engineering student passionate about technology, problem-solving, and building practical software solutions.
