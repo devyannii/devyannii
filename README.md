@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\HP\Downloads\banner-git.png"" alt="Pastel pixel-art" width="100%">
+  <img src="banner-git.png" alt="Pastel pixel-art" width="100%">
 </p>
 # Hey, I'm Devyani 👋🏻
 
