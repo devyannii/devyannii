@@ -8,7 +8,6 @@ I'm a fourth-year Computer Science and Engineering student passionate about tech
 - 🛠️ Building practical applications and experimenting with new ideas.
 - 🌱 Improving my programming and problem-solving skills.
 - 💡 Learning new concepts and finding creative ways to apply them.
-- ✨ Always learning, growing, and challenging myself.
 
 ## ⚡ Tech Stack
 
@@ -19,14 +18,13 @@ I'm a fourth-year Computer Science and Engineering student passionate about tech
 
 ## 🌷 A Little More About Me
 
-- 🎓 Fourth-year Computer Science and Engineering student.
-- 🧩 I enjoy solving problems and learning by building things.
-- 📖 Curious about technology and always open to learning something new.
-- 🤝 Happy to connect with fellow students and developers.
+- Fourth-year Computer Science and Engineering student.
+- I enjoy solving problems and learning by building things.
+- Curious about technology and always open to learning something new.
 
 ## 🤝 Let's Connect
 
-I'm always happy to connect with people who enjoy learning, sharing ideas, and creating meaningful things.
+Feel free to reach out at 
 
 - 💻 **Linkdin:** [Devyani Dongre](https://www.linkedin.com/in/devyanidongre2/)
 - 📧 **Email:** [devyani.dongre05@gmail.com](mailto:devyani.dongre05@gmail.com)
