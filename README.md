@@ -5,10 +5,10 @@ I'm a fourth-year Computer Science and Engineering student passionate about tech
 
 ## 👩🏻‍💻 What I'm Up To
 
-- 📚 Exploring new technologies and expanding my technical knowledge.
-- 🛠️ Building practical applications and experimenting with new ideas.
-- 🌱 Improving my programming and problem-solving skills.
-- 💡 Learning new concepts and finding creative ways to apply them.
+- Exploring new technologies and expanding my technical knowledge.
+- Building practical applications and experimenting with new ideas.
+- Improving my programming and problem-solving skills.
+- Learning new concepts and finding creative ways to apply them.
 
 ## ⚡ Tech Stack
 
