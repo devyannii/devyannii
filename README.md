@@ -14,6 +14,7 @@ I'm a fourth-year Computer Science and Engineering student passionate about tech
 
 - **Languages:** Python, JavaScript, SQL
 - **Web Technologies:** HTML, CSS, React
+- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib
 - **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 - **Database & Backend Tools:** Supabase
 
