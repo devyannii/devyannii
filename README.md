@@ -28,7 +28,7 @@ I'm a fourth-year Computer Science and Engineering student passionate about tech
 
 I'm always happy to connect with people who enjoy learning, sharing ideas, and creating meaningful things.
 
-- 💻 **Linkdin:** [Devyani Dongre](https://www.linkedin.com/in/devyanidongre2/))
+- 💻 **Linkdin:** [Devyani Dongre](https://www.linkedin.com/in/devyanidongre2/)
 - 📧 **Email:** [devyani.dongre05@gmail.com](mailto:devyani.dongre05@gmail.com)
 
 ---
