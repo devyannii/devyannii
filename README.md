@@ -17,7 +17,7 @@ I'm a fourth-year Computer Science and Engineering student passionate about tech
 - **Backend**: FastAPI, Django, REST APIs
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib
 - **Tools:** Git, GitHub, Jupyter Notebook, VS Code
-- **Database & Backend Tools:** Supabase
+- **Database & Backend Tools:** Supabase, PostgreSQL, MySQL
 
 ## 🌷 A Little More About Me
 
